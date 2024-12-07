@@ -317,7 +317,7 @@ What would you do to improve the model's accuracy?
 #I changed the code above rather than copying it all down here
 
 """(A) I added a LSTM, or long short term memory, which actually decreaced the models accuracy
-
+ 
 
 ---
 
